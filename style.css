@@ -1,0 +1,96 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: hsla(0, 0%, 0%, 0.616);
+    font-size: 30px;
+}
+h2{
+    color:hsl(0, 100%, 50%);
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.linked-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.work-area{
+    float: left;
+}
+.work{
+    color: black;
+    text-align: center;
+}
+
+.my-work img{
+    width: 30%;
+    margin-left: 2%;
+}
+.note{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.company{
+    color: dimgray;
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+.last-note{
+    text-align: center;
+    color: brown;
+}
+.last-banner{
+    background-image: url(images/latest-work-bg.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.footer{
+    text-align: center;
+}
+.contact{
+    color: wheat;
+    text-align: center;
+    background-color: orange;
+    border-radius: 5px solid;
+}
+footer p{
+    text-align: center;
+}
